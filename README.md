@@ -1,2 +1,2 @@
 # Spinning..  
-Donut
+python3 donut.py
